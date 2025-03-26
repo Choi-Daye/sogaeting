@@ -1,0 +1,13 @@
+# Custom dataset
+
+# class names
+names:
+- standing
+
+# number of classes
+nc: 1
+
+# train and val data
+train: cow_train
+val: cow_val
+# test: cow_test
